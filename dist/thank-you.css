@@ -1,0 +1,11 @@
+/* Thank-you reference: 694 x 1348 artwork at a 347px page width. */
+.page.thanks{min-height:674px;padding:163px 20px 40px;text-align:center}
+.thanks .thanks-small{left:26px;top:58px;width:62px;height:47px}
+.thanks .thanks-large{right:3px;top:70px;width:104px;height:56px}
+.thanks h1{font-size:40px;font-weight:400;line-height:1.2;margin:0;text-transform:uppercase}
+.thanks .thanks-copy{max-width:286px;margin:35px auto 0;font-size:16px;line-height:20px}
+.thanks-copy span{color:#ff0000}
+.thanks-arrow{display:block;width:20px;height:50px;margin:19px auto 0;color:#000}
+.thanks .telegram{width:248px;max-width:100%;min-height:54px;margin:29px auto 0;padding:8px 10px;border-radius:12px;background:#25a3db;font-family:'Bebas Neue','Arial Narrow',Impact,sans-serif;font-size:24px;font-weight:400;line-height:1.2;text-transform:uppercase}
+.thanks .telegram:hover{background:#168bc1}
+@media(max-width:340px){.thanks h1{font-size:36px}}
